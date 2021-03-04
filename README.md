@@ -19,7 +19,7 @@ https://github.com/MWFK/Machine-Learning-From-Zero-to-Hero/blob/main/Binary_Clas
 # Second Session
 
 ### Live Stream
-Ongoing...
+https://www.facebook.com/DSC.SupCom/videos/1109203829545356/
 
 ### Multiclass Classification
 https://github.com/MWFK/Machine-Learning-From-Zero-to-Hero/blob/main/Multiclass_Classification.ipynb
