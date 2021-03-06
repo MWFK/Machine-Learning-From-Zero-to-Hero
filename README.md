@@ -29,3 +29,9 @@ https://github.com/MWFK/Machine-Learning-From-Zero-to-Hero/blob/main/Multiclass_
 
 ### Regression Algos
 https://github.com/MWFK/Machine-Learning-From-Zero-to-Hero/blob/main/Regression_Algos_for_Stock_Prices_.ipynb
+
+
+# Third Session
+
+### Ensemble Learning with XGB
+https://github.com/MWFK/Machine-Learning-From-Zero-to-Hero/blob/main/XGB_From_Zero_to_Hero.ipynb
