@@ -33,5 +33,12 @@ https://github.com/MWFK/Machine-Learning-From-Zero-to-Hero/blob/main/Regression_
 
 # Third Session
 
+### Live Stream 
+https://www.youtube.com/watch?v=2KK0Ffv7uEs
+
 ### Ensemble Learning with XGB
 https://github.com/MWFK/Machine-Learning-From-Zero-to-Hero/blob/main/XGB_From_Zero_to_Hero.ipynb
+
+### Kahoot
+https://play.kahoot.it/v2/?quizId=60d20a7e-1e95-40e7-9e08-6a1f524c4cb7
+
